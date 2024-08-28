@@ -1,187 +1,47 @@
 {
-    "Monday": [
-        {
-            "start": "08:00",
-            "end": "09:00",
-            "class": "Mathematics"
-        },
-        {
-            "start": "09:00",
-            "end": "09:45",
-            "class": "Physics"
-        },
-        {
-            "start": "09:45",
-            "end": "10:00",
-            "class": "Break"
-        },
-        {
-            "start": "10:00",
-            "end": "11:00",
-            "class": "Chemistry"
-        },
-        {
-            "start": "11:00",
-            "end": "12:00",
-            "class": "English"
-        },
-        {
-            "start": "12:00",
-            "end": "13:00",
-            "class": "History"
-        },
-        {
-            "start": "14:00",
-            "end": "15:00",
-            "class": "Physical Education"
-        }
-    ],
-    "Tuesday": [
-        {
-            "start": "08:00",
-            "end": "09:00",
-            "class": "Biology"
-        },
-        {
-            "start": "09:00",
-            "end": "09:45",
-            "class": "Mathematics"
-        },
-        {
-            "start": "09:45",
-            "end": "10:00",
-            "class": "Break"
-        },
-        {
-            "start": "10:00",
-            "end": "11:00",
-            "class": "Computer Science"
-        },
-        {
-            "start": "11:00",
-            "end": "12:00",
-            "class": "Physics"
-        },
-        {
-            "start": "21:00",
-            "end": "22:00",
-            "class": "Chemistry"
-        },
-        {
-            "start": "22:00",
-            "end": "23:00",
-            "class": "Art"
-        }
-    ],
-    "Wednesday": [
-        {
-            "start": "18:00",
-            "end": "19:00",
-            "class": "English"
-        },
-        {
-            "start": "19:00",
-            "end": "20:45",
-            "class": "History"
-        },
-        {
-            "start": "20:45",
-            "end": "21:00",
-            "class": "Break"
-        },
-        {
-            "start": "21:00",
-            "end": "22:00",
-            "class": "Mathematics"
-        },
-        {
-            "start": "22:00",
-            "end": "23:00",
-            "class": "Biology"
-        },
-        {
-            "start": "23:00",
-            "end": "24:00",
-            "class": "Physics"
-        },
-        {
-            "start": 01:00",
-            "end": "02:00",
-            "class": "Chemistry"
-        }
-    ],
-    "Thursday": [
-        {
-            "start": "08:00",
-            "end": "09:00",
-            "class": "Computer Science"
-        },
-        {
-            "start": "09:00",
-            "end": "09:45",
-            "class": "English"
-        },
-        {
-            "start": "09:45",
-            "end": "10:00",
-            "class": "Break"
-        },
-        {
-            "start": "10:00",
-            "end": "11:00",
-            "class": "Art"
-        },
-        {
-            "start": "11:00",
-            "end": "12:00",
-            "class": "Mathematics"
-        },
-        {
-            "start": "12:00",
-            "end": "13:00",
-            "class": "History"
-        },
-        {
-            "start": "14:00",
-            "end": "15:00",
-            "class": "Physical Education"
-        }
-    ],
-    "Friday": [
-        {
-            "start": "08:00",
-            "end": "09:00",
-            "class": "Physics"
-        },
-        {
-            "start": "09:00",
-            "end": "09:45",
-            "class": "Chemistry"
-        },
-        {
-            "start": "09:45",
-            "end": "10:00",
-            "class": "Break"
-        },
-        {
-            "start": "10:00",
-            "end": "11:00",
-            "class": "Biology"
-        },
-        {
-            "start": "11:00",
-            "end": "12:00",
-            "class": "Mathematics"
-        },
-        {
-            "start": "12:00",
-            "end": "13:00",
-            "class": "English"
-        },
-        {
-            "start": "14:00",
-            "end": "15:00",
-            "class": "Computer Science"
-        }
-    ]
+  "Monday": [
+    {"start": "08:00", "end": "09:00", "class": "Mathematics"},
+    {"start": "09:00", "end": "09:45", "class": "Physics"},
+    {"start": "09:45", "end": "10:00", "class": "Break"},
+    {"start": "10:00", "end": "11:00", "class": "Chemistry"},
+    {"start": "11:00", "end": "12:00", "class": "English"},
+    {"start": "12:00", "end": "13:00", "class": "History"},
+    {"start": "14:00", "end": "15:00", "class": "Physical Education"}
+  ],
+  "Tuesday": [
+    {"start": "18:00", "end": "19:00", "class": "Biology"},
+    {"start": "19:00", "end": "19:45", "class": "Mathematics"},
+    {"start": "19:45", "end": "20:00", "class": "Break"},
+    {"start": "20:00", "end": "21:00", "class": "Computer Science"},
+    {"start": "21:00", "end": "22:00", "class": "Physics"},
+    {"start": "21:00", "end": "22:00", "class": "Chemistry"},
+    {"start": "22:00", "end": "23:00", "class": "Art"}
+  ],
+  "Wednesday": [
+    {"start": "08:00", "end": "09:00", "class": "English"},
+    {"start": "09:00", "end": "09:45", "class": "History"},
+    {"start": "09:45", "end": "10:00", "class": "Break"},
+    {"start": "10:00", "end": "11:00", "class": "Mathematics"},
+    {"start": "11:00", "end": "12:00", "class": "Biology"},
+    {"start": "12:00", "end": "13:00", "class": "Physics"},
+    {"start": "14:00", "end": "15:00", "class": "Chemistry"}
+  ],
+  "Thursday": [
+    {"start": "08:00", "end": "09:00", "class": "Computer Science"},
+    {"start": "09:00", "end": "09:45", "class": "English"},
+    {"start": "09:45", "end": "10:00", "class": "Break"},
+    {"start": "10:00", "end": "11:00", "class": "Art"},
+    {"start": "11:00", "end": "12:00", "class": "Mathematics"},
+    {"start": "12:00", "end": "13:00", "class": "History"},
+    {"start": "14:00", "end": "15:00", "class": "Physical Education"}
+  ],
+  "Friday": [
+    {"start": "08:00", "end": "09:00", "class": "Physics"},
+    {"start": "09:00", "end": "09:45", "class": "Chemistry"},
+    {"start": "09:45", "end": "10:00", "class": "Break"},
+    {"start": "10:00", "end": "11:00", "class": "Biology"},
+    {"start": "11:00", "end": "12:00", "class": "Mathematics"},
+    {"start": "12:00", "end": "13:00", "class": "English"},
+    {"start": "14:00", "end": "15:00", "class": "Computer Science"}
+  ]
 }
