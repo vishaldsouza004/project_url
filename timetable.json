@@ -36,7 +36,7 @@
     {"start": "19:00", "end": "19:20", "class": "Physical Education"}
   ],
   "Sunday": [
-    {"start": "17:00", "end": "18:00", "class": "Physics"},
+    {"start": "17:00", "end": "17:35", "class": "Physics"},
     {"start": "18:00", "end": "18:45", "class": "Chemistry"},
     {"start": "18:45", "end": "19:00", "class": "Break"},
     {"start": "19:00", "end": "20:00", "class": "Biology"},
