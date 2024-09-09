@@ -3,7 +3,7 @@
     {"start": "19:00", "end": "20:00", "class": "Biology"},
     {"start": "20:00", "end": "21:00", "class": "Mathematics"},
     {"start": "21:00", "end": "22:00", "class": "English"},
-    {"start": "22:00", "end": "22:30", "class": "Computer Science"}
+    {"start": "22:00", "end": "22:30", "class": "Computer Science"},
     {"start": "22:30", "end": "23:00", "class": "English"},
     {"start": "23:00", "end": "24:00", "class": "History"},
     {"start": "14:00", "end": "15:00", "class": "Physical Education"}
