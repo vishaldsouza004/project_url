@@ -9,7 +9,7 @@
     {"start": "14:00", "end": "15:00", "class": "Physical Education"}
   ],
   "Tuesday": [
-    {"start": "18:00", "end": "19:00", "class": "Biology"},
+    {"start": "17:00", "end": "19:00", "class": "Biology"},
     {"start": "19:00", "end": "19:45", "class": "Mathematics"},
     {"start": "19:45", "end": "20:00", "class": "Break"},
     {"start": "20:00", "end": "21:00", "class": "Computer Science"},
