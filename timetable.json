@@ -20,11 +20,11 @@
   "Wednesday": [
     {"start": "12:00", "end": "13:00", "class": "Physics"},
     {"start": "13:00", "end": "14:00", "class": "Chemistry"},
-    {"start": "16:29", "end": "16:30", "class": "Biology"},
-    {"start": "16:30", "end": "16:32", "class": "Physics"},
-    {"start": "16:32", "end": "16:34", "class": "Biology"},
-    {"start": "16:34", "end": "16:36", "class": "Physics"},
-    {"start": "16:36", "end": "16:38", "class": "Chemistry"}
+    {"start": "16:43", "end": "16:44", "class": "Biology"},
+    {"start": "16:45", "end": "16:46", "class": "Physics"},
+    {"start": "16:47", "end": "16:48", "class": "Biology"},
+    {"start": "16:49", "end": "16:50", "class": "Physics"},
+    {"start": "16:51", "end": "16:52", "class": "Chemistry"}
   ],
   "Friday": [
     {"start": "10:00", "end": "10:50", "class": "Computer Science"},
