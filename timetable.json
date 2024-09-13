@@ -36,12 +36,12 @@
     {"start": "14:00", "end": "14:20", "class": "Physical Education"}
   ],
   "Sunday": [
-    {"start": "17:00", "end": "17:35", "class": "Physics"},
-    {"start": "17:35", "end": "18:45", "class": "Chemistry"},
-    {"start": "18:45", "end": "19:00", "class": "Break"},
-    {"start": "19:00", "end": "20:00", "class": "Biology"},
-    {"start": "20:00", "end": "21:00", "class": "Mathematics"},
-    {"start": "21:00", "end": "22:00", "class": "English"},
-    {"start": "22:00", "end": "22:30", "class": "Computer Science"}
+    {"start": "11:50", "end": "11:51", "class": "Physics"},
+    {"start": "11:51", "end": "11:52", "class": "Chemistry"},
+    {"start": "11:52", "end": "11:54", "class": "Break"},
+    {"start": "11:54", "end": "11:56", "class": "Biology"},
+    {"start": "11:56", "end": "11:58", "class": "Mathematics"},
+    {"start": "11:58", "end": "12:00", "class": "English"},
+    {"start": "12:00", "end": "12:02", "class": "Computer Science"}
   ]
 }
