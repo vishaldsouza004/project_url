@@ -10,14 +10,14 @@
     {"start": "13:30", "end": "16:00", "class": "Skill Development"}
   ],
   "Tuesday": [
-    {"start": "20:10", "end": "20:12", "class": "AI & ML"},
-    {"start": "20:12", "end": "20:14", "class": "Digital image processing"},
-    {"start": "20:14", "end": "20:16", "class": "Optical & wireless communication"},
-    {"start": "20:16", "end": "20:18", "class": "Break"},
-    {"start": "20:19", "end": "20:19", "class": "Adv.VLSI"},
-    {"start": "20:19", "end": "20:20", "class": "Network security"},
-    {"start": "20:20", "end": "20:22", "class": "Lunch break"},
-    {"start": "20:22", "end": "20:30", "class": "Skill Development"}
+    {"start": "20:35", "end": "20:36", "class": "AI & ML"},
+    {"start": "20:36", "end": "20:38", "class": "Digital image processing"},
+    {"start": "20:38", "end": "20:40", "class": "Optical & wireless communication"},
+    {"start": "20:40", "end": "20:42", "class": "Break"},
+    {"start": "20:42", "end": "20:44", "class": "Adv.VLSI"},
+    {"start": "20:44", "end": "20:46", "class": "Network security"},
+    {"start": "20:46", "end": "20:48", "class": "Lunch break"},
+    {"start": "20:48", "end": "20:50", "class": "Skill Development"}
   ],
   "Wednesday": [
    {"start": "08:30", "end": "09:20", "class": "Optical & wireless communication"},
