@@ -14,10 +14,10 @@
     {"start": "20:54", "end": "20:56", "class": "Digital image processing"},
     {"start": "20:56", "end": "20:58", "class": "Optical & wireless communication"},
     {"start": "20:58", "end": "21:00", "class": "Break"},
-    {"start": "21:38", "end": "21:40", "class": "Adv.VLSI"},
-    {"start": "21:40", "end": "21:42", "class": "Network security"},
-    {"start": "21:42", "end": "21:44", "class": "Lunch break"},
-    {"start": "21:44", "end": "21:46", "class": "Skill Development"}
+    {"start": "21:48", "end": "21:50", "class": "Adv.VLSI"},
+    {"start": "21:50", "end": "21:52", "class": "Network security"},
+    {"start": "21:52", "end": "21:54", "class": "Lunch break"},
+    {"start": "21:54", "end": "21:56", "class": "Skill Development"}
   ],
   "Wednesday": [
    {"start": "08:30", "end": "09:20", "class": "Optical & wireless communication"},
