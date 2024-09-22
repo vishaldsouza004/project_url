@@ -2,27 +2,27 @@
   "Monday": [
     {"start": "08:30", "end": "09:20", "class": "Network Security"},
     {"start": "09:20", "end": "10:10", "class": "Adv.VLSI"},
-    {"start": "10:10", "end": "11:00", "class": "Optical & wireless communication"},
+    {"start": "10:10", "end": "11:00", "class": "Digital image processing"},
     {"start": "11:00", "end": "11:15", "class": "Break"},
-    {"start": "11:15", "end": "12:05", "class": "Digital image processing"},
-    {"start": "12:05", "end": "12:55", "class": "Optical & wireless communication"},
+    {"start": "11:15", "end": "12:05", "class": "Optical & wireless communication"},
+    {"start": "12:05", "end": "12:55", "class": "No class"},
     {"start": "12:55", "end": "13:30", "class": "Lunch break"},
     {"start": "13:30", "end": "16:00", "class": "Skill Development"}
   ],
   "Tuesday": [
-    {"start": "22:05", "end": "22:07", "class": "AI & ML"},
-    {"start": "22:07", "end": "22:09", "class": "Digital image processing"},
-    {"start": "22:09", "end": "22:10", "class": "Optical & wireless communication"},
-    {"start": "22:10", "end": "22:12", "class": "Break"},
-    {"start": "21:48", "end": "21:50", "class": "Adv.VLSI"},
-    {"start": "21:50", "end": "21:52", "class": "Network security"},
-    {"start": "21:52", "end": "21:54", "class": "Lunch break"},
-    {"start": "21:54", "end": "21:56", "class": "Skill Development"}
+    {"start": "08:30", "end": "09:20", "class": "AI & ML"},
+    {"start": "09:20", "end": "10:10", "class": "Digital image processing"},
+    {"start": "10:10", "end": "11:00", "class": "Optical & wireless communication"},
+    {"start": "11:00", "end": "11:15", "class": "Break"},
+    {"start": "11:15", "end": "12:05", "class": "Adv.VLSI"},
+    {"start": "12:05", "end": "12:55", "class": "Network security"},
+    {"start": "12:55", "end": "13:30", "class": "Lunch break"},
+    {"start": "13:30", "end": "16:00", "class": "Skill Development"}
   ],
   "Wednesday": [
    {"start": "08:30", "end": "09:20", "class": "Optical & wireless communication"},
     {"start": "09:20", "end": "10:10", "class": "Adv.VLSI"},
-    {"start": "10:10", "end": "11:00", "class": "Skill Development"},
+    {"start": "10:10", "end": "11:00", "class": "Digital image processing"},
     {"start": "11:00", "end": "11:15", "class": "Break"},
     {"start": "11:15", "end": "12:05", "class": "Skill Development"},
     {"start": "12:05", "end": "12:55", "class": "Skill Development"},
@@ -34,7 +34,7 @@
     {"start": "09:20", "end": "10:10", "class": "Network Security"},
     {"start": "10:10", "end": "11:00", "class": "AI & ML"},
     {"start": "11:00", "end": "11:15", "class": "Break"},
-    {"start": "11:15", "end": "12:05", "class": "Adv.VLSI"},
+    {"start": "11:15", "end": "12:05", "class": "Optical & wireless communication"},
     {"start": "12:05", "end": "12:55", "class": "AI & ML"},
     {"start": "12:55", "end": "13:30", "class": "Lunch break"},
     {"start": "13:30", "end": "16:00", "class": "Skill Development"}
@@ -45,7 +45,7 @@
     {"start": "10:10", "end": "11:00", "class": "Optical & wireless communication"},
     {"start": "11:00", "end": "11:15", "class": "Break"},
     {"start": "11:15", "end": "12:05", "class": "Network Security"},
-    {"start": "12:05", "end": "12:55", "class": "Digital image processing"},
+    {"start": "12:05", "end": "12:55", "class": "Adv.VLSI"},
     {"start": "12:55", "end": "13:30", "class": "Lunch break"},
     {"start": "13:30", "end": "16:00", "class": "Skill Development"}
   ],
